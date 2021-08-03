@@ -1,6 +1,6 @@
 
 #Creating Models using class.py as data preprocessing
-
+#Data are from kickstarter.csv in Kaggle
 d=data_preparation()
 data=d.importer('./kickstarter.csv','r',',')
 #eimino le classi del target collegate a stati temporanei
