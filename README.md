@@ -1,2 +1,2 @@
 # Class
-It's non a lot, just using some conde in Python 
+Just using some code and algorithm in Python 
