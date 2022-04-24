@@ -1,2 +1,2 @@
-# Class
-I just use some code and algorithm in Python, code is a quick presentation for algorithm and models with some really easy and short explanations.
+# Python
+In this repository I'm going to post some simple code and algorithms used to solve some tasks like classification and face recognition.
